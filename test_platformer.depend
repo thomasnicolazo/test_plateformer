@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687443724 source:/home/thomas/Documents/ARINFO_cours/C_C_plus_plus/test_platformer/main.c
+	<stdio.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+
